@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+.counter {
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+    color: white;
+}
+
+.buttons {
+    height: 80px;
+    width: 80px;
+    border-radius: 50px;
+    border: 1px solid rgb(223, 43, 43);
+    align-items: center;
+    justify-content: center;
+}
