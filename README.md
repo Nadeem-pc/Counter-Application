@@ -15,4 +15,5 @@ A simple and responsive **Counter Application** built using **React**. This appl
 ## Technologies Used
 
 - **React.js** – Frontend library
+- **HTML & JSX** – Structure
 - **CSS** – Styling
