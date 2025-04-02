@@ -20,3 +20,15 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.countTxt {
+    font-size: 300px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
